@@ -13,7 +13,7 @@ Formato das imagens: 1080 × 1350 (4:5).
 
 | Data | Pasta | Situação |
 |---|---|---|
-| 27/10/2026 | `posts/2026-10-27-em-breve` | Teaser (substitui o primeiro post) |
+| 27/10/2026 | `posts/2026-10-27-em-breve` | Publicado (teaser, substitui o primeiro post) |
 | 28/10/2026 | `posts/2026-10-28-moeda-teimosa` | Agendado |
 | 30/10/2026 | `posts/2026-10-30-sorteio-impossivel` | Agendado |
 | 01/11/2026 | `posts/2026-11-01-desde-os-mamutes` | Agendado |

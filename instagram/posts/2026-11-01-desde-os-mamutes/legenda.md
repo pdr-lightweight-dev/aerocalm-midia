@@ -6,4 +6,14 @@ Há 45 mil anos ainda tinha mamute andando pela Terra.
 
 Fonte: IATA, Relatório Anual de Segurança 2024. As contas estão no último slide.
 
-#medodevoar #medodeaviao #aerofobia #viagem #aviacao #curiosidades #mamute
+—
+
+If you took one flight a day, every day, it would take about 45,000 years, on average, to be on a flight with fatalities. 🦣✈️
+
+45,000 years ago, mammoths were still walking the Earth.
+
+It's an average, not a promise. But it shows how rare this is.
+
+Source: IATA 2024 Annual Safety Report. The math is on the last slide.
+
+#medodevoar #medodeaviao #aerofobia #viagem #aviacao #curiosidades #mamute #fearofflying #aviophobia

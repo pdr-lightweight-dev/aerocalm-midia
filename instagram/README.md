@@ -13,7 +13,7 @@ Formato das imagens: 1080 × 1350 (4:5).
 
 | Data | Pasta | Situação |
 |---|---|---|
-| 26/10/2026 | `posts/2026-10-26-oi-eu-sou-a-alba` | Publicado |
+| 27/10/2026 | `posts/2026-10-27-em-breve` | Teaser (substitui o primeiro post) |
 | 28/10/2026 | `posts/2026-10-28-moeda-teimosa` | Agendado |
 | 30/10/2026 | `posts/2026-10-30-sorteio-impossivel` | Agendado |
 | 01/11/2026 | `posts/2026-11-01-desde-os-mamutes` | Agendado |
@@ -27,6 +27,7 @@ O nome da pasta usa a data em que o post foi agendado na conta atual.
 
 Peças que não foram publicadas ou que foram substituídas. Ficam aqui só como referência.
 
+- `arquivo/oi-eu-sou-a-alba-publicado-e-substituido`: primeiro post, publicado em 26/10 e trocado pelo teaser (citava o nome antigo da marca)
 - `arquivo/clunk-trem-de-pouso`: carrossel do "clunk" (cita o nome antigo da marca)
 - `arquivo/chamada-testadores`: chamada de testadores (cita o nome antigo da marca)
 - `arquivo/comparativos-v1-sem-capa`: primeira versão dos comparativos, sem capa

@@ -20,12 +20,12 @@ Formato das imagens: 1080 × 1350 (4:5).
 | 31/10/2026 | `posts/2026-10-31-sorte-grande` | Agendado (12h) |
 | 01/11/2026 | `posts/2026-11-01-truque-de-magica` | Agendado (12h) |
 | 02/11/2026 | `posts/2026-11-02-seis-seis-seis` | Agendado (12h) |
-| 03/11/2026 | `posts/2026-11-03-senha-de-primeira` | Rascunho (12h) |
-| 04/11/2026 | `posts/2026-11-04-sempre-o-17` | Rascunho (12h) |
-| 05/11/2026 | `posts/2026-11-05-desde-o-imperio-romano` | Rascunho (12h) |
-| 06/11/2026 | `posts/2026-11-06-saiu-voce` | Rascunho (12h) |
-| 07/11/2026 | `posts/2026-11-07-mao-perfeita` | Rascunho (12h) |
-| 08/11/2026 | `posts/2026-11-08-mais-facil-um-raio` | Rascunho (12h) |
+| 03/11/2026 | `posts/2026-11-03-senha-de-primeira` | Agendado (12h) |
+| 04/11/2026 | `posts/2026-11-04-sempre-o-17` | Agendado (12h) |
+| 05/11/2026 | `posts/2026-11-05-desde-o-imperio-romano` | Agendado (12h) |
+| 06/11/2026 | `posts/2026-11-06-saiu-voce` | Agendado (12h) |
+| 07/11/2026 | `posts/2026-11-07-mao-perfeita` | Agendado (12h) |
+| 08/11/2026 | `posts/2026-11-08-mais-facil-um-raio` | Agendado (12h) |
 
 O nome da pasta usa a data em que o post foi agendado na conta atual.
 

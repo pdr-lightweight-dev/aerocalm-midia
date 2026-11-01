@@ -24,10 +24,9 @@ Números pela média da IATA de 2021 a 2025 (1 acidente fatal a cada 5,6 milhõe
 
 ## Arquivo
 
-- `arquivo/comparativos-base-2024`: primeira série de comparativos (base IATA 2024), publicada entre 28/10 e 01/11 e apagada para a série de lançamento
-
 Peças que não foram publicadas ou que foram substituídas. Ficam aqui só como referência.
 
+- `arquivo/comparativos-base-2024`: primeira série de comparativos (base IATA 2024), publicada entre 28/10 e 01/11 e apagada para a série de lançamento
 - `arquivo/oi-eu-sou-a-alba-publicado-e-substituido`: primeiro post, publicado em 26/10 e trocado pelo teaser (citava o nome antigo da marca)
 - `arquivo/clunk-trem-de-pouso`: carrossel do "clunk" (cita o nome antigo da marca)
 - `arquivo/chamada-testadores`: chamada de testadores (cita o nome antigo da marca)

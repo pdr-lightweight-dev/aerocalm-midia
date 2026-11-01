@@ -13,26 +13,20 @@ Formato das imagens: 1080 × 1350 (4:5).
 
 | Data | Pasta | Situação |
 |---|---|---|
-| 27/10/2026 | `posts/2026-10-27-em-breve` | Publicado (teaser, substitui o primeiro post) |
-| 28/10/2026 | `posts/2026-10-28-moeda-teimosa` | Publicado |
-| 29/10/2026 | `posts/2026-10-29-sorteio-impossivel` | Agendado (12h) |
-| 30/10/2026 | `posts/2026-10-30-desde-os-mamutes` | Agendado (12h) |
-| 31/10/2026 | `posts/2026-10-31-sorte-grande` | Agendado (12h) |
-| 01/11/2026 | `posts/2026-11-01-truque-de-magica` | Agendado (12h) |
-| 02/11/2026 | `posts/2026-11-02-seis-seis-seis` | Agendado (12h) |
-| 03/11/2026 | `posts/2026-11-03-senha-de-primeira` | Agendado (12h) |
-| 04/11/2026 | `posts/2026-11-04-sempre-o-17` | Agendado (12h) |
-| 05/11/2026 | `posts/2026-11-05-desde-o-imperio-romano` | Agendado (12h) |
-| 06/11/2026 | `posts/2026-11-06-saiu-voce` | Agendado (12h) |
-| 07/11/2026 | `posts/2026-11-07-mao-perfeita` | Agendado (12h) |
-| 08/11/2026 | `posts/2026-11-08-mais-facil-um-raio` | Agendado (12h) |
+| 27/10/2026 | `posts/2026-10-27-em-breve` | Publicado (teaser) |
 
 O nome da pasta usa a data em que o post foi agendado na conta atual.
+
+## Série de lançamento (não agendada)
+
+`lancamento/`: 12 comparativos prontos para publicar quando o app estiver no ar. Cada pasta tem 4 imagens (capa, comparação, conta e tela do app) e a legenda em PT e EN.
+Números pela média da IATA de 2021 a 2025 (1 acidente fatal a cada 5,6 milhões de voos, incluindo carga), a mesma base do app.
 
 ## Arquivo
 
 Peças que não foram publicadas ou que foram substituídas. Ficam aqui só como referência.
 
+- `arquivo/comparativos-base-2024`: primeira série de comparativos (base IATA 2024), publicada entre 28/10 e 01/11 e apagada para a série de lançamento
 - `arquivo/oi-eu-sou-a-alba-publicado-e-substituido`: primeiro post, publicado em 26/10 e trocado pelo teaser (citava o nome antigo da marca)
 - `arquivo/clunk-trem-de-pouso`: carrossel do "clunk" (cita o nome antigo da marca)
 - `arquivo/chamada-testadores`: chamada de testadores (cita o nome antigo da marca)
